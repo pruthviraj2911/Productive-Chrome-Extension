@@ -1,0 +1,22 @@
+h1 {
+    color: #2196F3; /* blue */
+    font-size: 40px;
+    padding: 5px;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+h2 {
+    font-size: 25px;
+    color: #4CAF50; /* green */
+}
+
+p {
+    font-size: 18px;
+    color: #333; /* dark gray */
+}
+
+HTML {
+    background-color: #F0F4F8; /* light blue-gray */
+    font-size: 20px;
+}
